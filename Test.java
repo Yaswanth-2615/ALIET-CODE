@@ -2,6 +2,6 @@ class Test
 {
 public static void main(string args[])
 {
-system.out.println(" JAVA-GITHUB-JENKINS");
+System.out.println(" JAVA-GITHUB-JENKINS");
 }
 }
